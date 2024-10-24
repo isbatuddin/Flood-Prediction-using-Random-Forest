@@ -1,9 +1,7 @@
 ![output](https://github.com/user-attachments/assets/85c9c56d-1e0f-4a2d-9e2b-203388b3dcc9)
 .....
 .....
-Great! Here's a simple **README** template that you can use when uploading your project to GitHub. This README will describe your machine learning project clearly and professionally.
 
----
 
 # Flood Prediction using Random Forest
 
